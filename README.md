@@ -14,23 +14,23 @@ Berikut adalah tampilan utama dari aplikasi Student Directory:
 
 | Login Page | Home Page (Daftar) |
 |---|---|
-| ![Login](screenshots/login.png) | ![Daftar](screenshots/home.png) |
+| ![Login](screenshoot/login.png) | ![Daftar](screenshoot/home.png) |
 
 | Detail Page | Form Tambah |
 |---|---|
-| ![Detail](screenshots/detail.png) | ![Form Tambah](screenshots/tambah_mahasiswa.png) |
+| ![Detail](screenshoot/detail.png) | ![Form Tambah](screenshoot/tambah_mahasiswa.png) |
 
 | Form Edit | Hapus |
 |---|---|
-| ![Detail](screenshots/edit_mahasiswa.png) | ![Form Tambah](screenshots/hapus_mahasiswa.png) |
+| ![Detail](screenshoot/edit_mahasiswa.png) | ![Form Tambah](screenshoot/hapus_mahasiswa.png) |
 
 | Search | Hasil Search |
 |---|---|
-| ![Detail](screenshots/search.png) | ![Form Tambah](screenshots/hasil_search.png) |
+| ![Detail](screenshoot/search.png) | ![Form Tambah](screenshoot/hasil_search.png) |
 
 | Swipe to Delete |
 |---|
-| ![Detail](screenshots/swipe_to_delete.png) |
+| ![Detail](screenshoot/swipe_to_delete.png) |
 
 ## 💾 Metode Penyimpanan Data
 Aplikasi ini menggunakan dua metode penyimpanan data yang berbeda sesuai dengan fungsinya:
