@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Room Database Mahasiswa</string>
+    <string-array name="prodi_array">
+        <item>-- Pilih Prodi --</item>
+        <item>Informatika</item>
+        <item>Sistem Informasi</item>
+        <item>Teknik Komputer</item>
+    </string-array>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
